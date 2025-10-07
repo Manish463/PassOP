@@ -25,7 +25,7 @@ PassOP stores all your passwords **locally** in your browser’s `localStorage`,
 ---
 
 ## 🌍 Deployment
-The website is deployed on [Netlify](https://app.netlify.com/).
+The website is deployed on [Netlify](https://app.netlify.com/) and you can check it out by clicking on ➡️ [PassOP](https://passop-by-manish.netlify.app/).
 
 ---
 
